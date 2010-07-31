@@ -1,0 +1,6 @@
+DirectoryIndex index.html index.html.var index.php
+   Options +FollowSymLinks
+   Options +Indexes
+   RewriteEngine On
+   RewriteCond %{SCRIPT_FILENAME} !-d
+   RewriteRule ^([^\.]+)$ $1.php [NC,L]
