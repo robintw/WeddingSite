@@ -14,7 +14,7 @@
         <p class="pageheading">Contact</p>
         </div>
         <p>Please feel free to contact us if you've got any questions about our wedding.</p>
-        <p><strong>Email:</strong> wedding@rtwilson.com</p>
+        <p><strong>Email:</strong> <a href="mailto:wedding@rtwilson.com">wedding@rtwilson.com</a></p>
         <p><strong>Phone:</strong> 023 8067 1898 or 07813342211</p>
 	</div>
 </div>
